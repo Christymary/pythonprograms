@@ -1,12 +1,14 @@
 div{
-    height:112px;
-    background:lightslategray ;
+    height:150px;
+    background-color:#778899 ;
     border:1px solid black;
     width:50%;
-    margin-left:480px;
+    margin-left: 320px;
     padding:50px;
 }
-
 .foot{
-    margin-top:510px;
+    margin-top:435px;
+}
+.head a:nth-child(1){
+    margin:2px;
 }
